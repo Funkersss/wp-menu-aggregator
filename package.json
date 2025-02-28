@@ -23,6 +23,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "csv-stringify": "^6.5.2",
+    "date-fns": "^4.1.0",
     "lucide-react": "^0.476.0",
     "next": "15.2.0",
     "punycode": "^2.3.1",
